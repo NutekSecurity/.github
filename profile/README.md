@@ -27,14 +27,4 @@ We proudly present:
 
 [Nutek Security](https://nuteksecurity.com)
 
-## Ask us about a security risk asessment and network plumbing with testing
-
-Fire an email at [neosb@nuteksecurity.com](mailto:neosb@nuteksecurity.com) to get a quote on your next security check.
-
-We perform checks of:
-
-* Web Applications (7/10)
-* Desktop Applications (7/10)
-* Mobile Applications (3/10)
-* Personal security check (6/10)
-* remote Social Engineering Campaigns (10/10)
+[neosb@nuteksecurity.com](mailto:neosb@nuteksecurity.com)
