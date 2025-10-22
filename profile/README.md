@@ -12,6 +12,8 @@
 
 Advanced techniques for special tasks. Inspire, share and help others 🎶
 
+SZUKASZ KOLEGI? POMYLIŁEŚ ADRES
+
 ## GitHub
 
 Here, Nutek Security, keeps it's projects, open source and friends. Everything security and related topics.
