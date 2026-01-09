@@ -12,7 +12,7 @@
 
 🎶
 
-SZUKASZ KOLEGI? POMYLIŁEŚ ADRES
+SZUKASZ Miłości i PRZYJAŹNI? To tu.
 
 ## External links
 
